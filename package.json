@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vamshikrishna3777/vamshi-beingzero/issues"
   },
-  "homepage": "https://github.com/vamshikrishna3777/vamshi-beingzero#readme"
+  "homepage": "https://github.com/vamshikrishna3777/vamshi-beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
